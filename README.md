@@ -8,5 +8,4 @@
 Baozzzzzzzz/Baozzzzzzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-今天是2022年9月21日
-我是一位普通本科的大二软件工程专业学生，这是我第一次写博客，我希望通过写博客来不断总结反思自己，为了自己的未来，加油！
+But only when you begin to believe in yourself, do you have a real life.
